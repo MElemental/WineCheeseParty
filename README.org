@@ -1,0 +1,21 @@
+#+TITLE: README
+* Cheese Board
+In order to have a wine and cheese party we must prepare a cheese board.
+A cheese board has two elements the cheese and the food pairings that complement it.
+The cheese usually involves at least 5 types of cheeses on a board in a clockwise direction:
+| Cheese-Type     | Example             |
+|-----------------+---------------------|
+| goat cheese     | goat cheese         |
+| soft rind       | brie                |
+| firm(semi-hard) | Cheddar             |
+| hard cheese     | Parmigiano-Reggiano |
+| Bleu Cheese     | blue cheese         |
+
+The following table provides the cheese and possible food pairings.
+| TBD |   |
+|     |   |
+* Wine Rack
+  Wine serves to accompany a variety of different food.
+  We can pair wine to the flavors of cheese.
+
+
