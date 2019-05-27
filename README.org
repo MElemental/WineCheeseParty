@@ -2,10 +2,12 @@
 * Cheese Board
 In order to have a wine and cheese party we must prepare a cheese board.
 A cheese board has two elements the cheese and the food pairings that complement it.
-The cheese usually involves at least 5 types of cheeses on a board in a clockwise direction:
+The cheese usually involves at least 5 types of cheeses on a board in a clockwise direction.
+Typically these cheeses get arranged from soft to hard, with the exception of the bleu cheese.
+The Bleu cheese gets added last because if it's strong flavor.
 | Cheese-Type     | Example             |
 |-----------------+---------------------|
-| goat cheese     | goat cheese         |
+| goat cheese     | chevre              |
 | soft rind       | brie                |
 | firm(semi-hard) | Cheddar             |
 | hard cheese     | Parmigiano-Reggiano |
